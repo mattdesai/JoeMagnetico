@@ -4,7 +4,8 @@ Content-Location: file:///C:/A28BB0CF/JoeMagnetico.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html
 
-<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
 xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
 xmlns=3D"http://www.w3.org/TR/REC-html40">
 
@@ -549,7 +550,14 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 	mso-pattern:auto;
 	white-space:nowrap;}
 --></style>
-</head>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--></head>
 
 <body>
 <!--[if !excel]>&nbsp;&nbsp;<![endif]-->
@@ -659,23 +667,23 @@ h:28pt'></td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl7231288>&nbsp;</td>
   <td class=3Dxl7031288>Joe Magnetico</td>
-  <td class=3Dxl7131288>10</td>
+  <td class=3Dxl7131288>6</td>
   <td class=3Dxl7031288>Dean Nardone</td>
   <td class=3Dxl7131288>-8</td>
   <td class=3Dxl7031288>Lorraine McGill</td>
-  <td class=3Dxl7131288>12</td>
+  <td class=3Dxl7131288>11</td>
   <td class=3Dxl7031288>Russ Flagg</td>
-  <td class=3Dxl7131288>2</td>
+  <td class=3Dxl7131288>-2</td>
   <td class=3Dxl7031288>Bill Seeger</td>
-  <td class=3Dxl7131288>7</td>
+  <td class=3Dxl7131288>3</td>
   <td class=3Dxl7031288>Matt Myers</td>
-  <td class=3Dxl7131288>-11</td>
+  <td class=3Dxl7131288>-14</td>
   <td class=3Dxl7031288>Jon Poglitsch</td>
-  <td class=3Dxl7131288>-4</td>
+  <td class=3Dxl7131288>-7</td>
   <td class=3Dxl7031288>Charlie Adams</td>
-  <td class=3Dxl7131288>6</td>
+  <td class=3Dxl7131288>2</td>
   <td class=3Dxl7031288>Steve McFadden</td>
-  <td class=3Dxl7131288>19</td>
+  <td class=3Dxl7131288>17</td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl6631288></td>
@@ -698,7 +706,7 @@ h:28pt'></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Laurie Seeger</td>
-  <td class=3Dxl7931288>-21</td>
+  <td class=3Dxl7931288>-27</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>1</td>
   <td class=3Dxl6831288>Jon Rahm</td>
@@ -706,7 +714,7 @@ h:28pt'></td>
   <td class=3Dxl6831288>Patrick Cantlay</td>
   <td class=3Dxl6531288>-1</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288>Jon Rahm</td>
   <td class=3Dxl6531288>7</td>
   <td class=3Dxl1531288>Jon Rahm</td>
@@ -714,9 +722,9 @@ h:28pt'></td>
   <td class=3Dxl6831288>Rory McIlroy</td>
   <td class=3Dxl6531288>-2</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288>Jon Rahm</td>
   <td class=3Dxl6531288>7</td>
   <td class=3Dxl1531288></td>
@@ -741,7 +749,7 @@ h:28pt'></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Ann Heal</td>
-  <td class=3Dxl7931288>-21</td>
+  <td class=3Dxl7931288>-26</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>2</td>
   <td class=3Dxl6831288>Matt Fitzpatrick</td>
@@ -783,8 +791,8 @@ h:28pt'></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Gary Casarsa</td>
-  <td class=3Dxl7931288>-14</td>
+  <td class=3Dxl7631288>Sean Christian</td>
+  <td class=3Dxl7931288>-17</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>3</td>
   <td class=3Dxl6831288>Justin Thomas</td>
@@ -826,8 +834,8 @@ h:28pt'></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Sean Christian</td>
-  <td class=3Dxl7931288>-14</td>
+  <td class=3Dxl7631288>Gary Casarsa</td>
+  <td class=3Dxl7931288>-15</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>4</td>
   <td class=3Dxl6831288>Tyrrell Hatton</td>
@@ -870,22 +878,22 @@ h:28pt'></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Matt Myers</td>
-  <td class=3Dxl7931288>-11</td>
+  <td class=3Dxl7931288>-14</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>5</td>
   <td class=3Dxl6831288>Tommy Fleetwood</td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl6831288>Hideki Matsuyama</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Hideki Matsuyama</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Tommy Fleetwood</td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl6831288>Tommy Fleetwoo<span style=3D'display:none'>d</span>=
 </td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl6831288>Tommy Fleetwood</td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl6831288>Sahith Theegala</td>
   <td class=3Dxl6531288>6</td>
   <td class=3Dxl6831288>Sahith Theegala</td>
@@ -914,13 +922,13 @@ h:28pt'></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Frank Prestifilippo</td>
-  <td class=3Dxl7931288>-9</td>
+  <td class=3Dxl7931288>-13</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>6</td>
   <td class=3Dxl6831288>Tom Hoge</td>
   <td class=3Dxl6531288>10</td>
   <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl6831288>Joaquin Niemann</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Joaquin Niemann</td>
@@ -928,9 +936,9 @@ h:28pt'></td>
   <td class=3Dxl6831288>Billy Horschel</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl6831288>Joaquin Niemann</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Joaquin Niemann</td>
@@ -1000,27 +1008,27 @@ h:28pt'></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Jon Poglitsch</td>
-  <td class=3Dxl7931288>-4</td>
+  <td class=3Dxl7931288>-7</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>LIV</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Abraham Ancer</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -1043,13 +1051,13 @@ h:28pt'></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Dick Webster</td>
-  <td class=3Dxl7931288>-3</td>
+  <td class=3Dxl7931288>-7</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>WC1</td>
   <td class=3Dxl6831288>K.H. Lee</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Ryan Fox</td>
-  <td class=3Dxl6531288>2</td>
+  <td class=3Dxl6531288>3</td>
   <td class=3Dxl6831288>Adam Scott</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Talor Gooch</td>
@@ -1087,7 +1095,7 @@ n></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Mark Brenman</td>
-  <td class=3Dxl7931288>-3</td>
+  <td class=3Dxl7931288>-7</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>WC2</td>
   <td class=3Dxl6831288>Sam Ryder</td>
@@ -1095,7 +1103,7 @@ n></td>
   <td class=3Dxl6831288>Adam Scott</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Ryan Fox</td>
-  <td class=3Dxl6531288>2</td>
+  <td class=3Dxl6531288>3</td>
   <td class=3Dxl6831288>Adam Scott</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl8831288>Harris English</td>
@@ -1129,8 +1137,8 @@ n></td>
  </tr>
  <tr height=3D17 style=3D'height:12.75pt'>
   <td height=3D17 class=3Dxl1531288 style=3D'height:12.75pt'></td>
-  <td class=3Dxl7631288>Ken Webster</td>
-  <td class=3Dxl7931288>-1</td>
+  <td class=3Dxl7631288>Chris Marinis</td>
+  <td class=3Dxl7931288>-4</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7431288>&nbsp;</td>
   <td class=3Dxl1531288></td>
@@ -1173,27 +1181,27 @@ n></td>
  <tr class=3Dxl6631288 height=3D17 style=3D'height:12.75pt'>
   <td height=3D17 class=3Dxl6631288 style=3D'height:12.75pt'></td>
   <td class=3Dxl7631288>Russ Flagg</td>
-  <td class=3Dxl7931288>2</td>
+  <td class=3Dxl7931288>-2</td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl7231288>&nbsp;</td>
   <td class=3Dxl7031288>Damon Chapman</td>
-  <td class=3Dxl7131288>9</td>
+  <td class=3Dxl7131288>7</td>
   <td class=3Dxl7031288>Gary Casarsa</td>
-  <td class=3Dxl7131288>-14</td>
+  <td class=3Dxl7131288>-15</td>
   <td class=3Dxl7031288>Laurie Seeger</td>
-  <td class=3Dxl7131288>-21</td>
+  <td class=3Dxl7131288>-27</td>
   <td class=3Dxl7031288>Mike Coope</td>
-  <td class=3Dxl7131288>6</td>
+  <td class=3Dxl7131288>4</td>
   <td class=3Dxl7031288>Dick Webster</td>
-  <td class=3Dxl7131288>-3</td>
+  <td class=3Dxl7131288>-7</td>
   <td class=3Dxl7031288>Halley Ganges</td>
-  <td class=3Dxl7131288>12</td>
-  <td class=3Dxl7031288>Chris Callahan</td>
   <td class=3Dxl7131288>8</td>
+  <td class=3Dxl7031288>Chris Callahan</td>
+  <td class=3Dxl7131288>6</td>
   <td class=3Dxl7031288>Matt Desai</td>
-  <td class=3Dxl7131288>3</td>
+  <td class=3Dxl7131288>-1</td>
   <td class=3Dxl7031288>Ann Heal</td>
-  <td class=3Dxl7131288>-21</td>
+  <td class=3Dxl7131288>-26</td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl6631288></td>
@@ -1215,8 +1223,8 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Chris Marinis</td>
-  <td class=3Dxl7931288>2</td>
+  <td class=3Dxl7631288>Matt Desai</td>
+  <td class=3Dxl7931288>-1</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>1</td>
   <td class=3Dxl6831288>Xander Schauffele</td>
@@ -1224,7 +1232,7 @@ n></td>
   <td class=3Dxl6831288>Jon Rahm</td>
   <td class=3Dxl6531288>7</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288>Xander Schauffele</td>
   <td class=3Dxl6531288>2</td>
   <td class=3Dxl1531288>Jon Rahm</td>
@@ -1232,11 +1240,11 @@ n></td>
   <td class=3Dxl6831288>Jon Rahm</td>
   <td class=3Dxl6531288>7</td>
   <td class=3Dxl1531288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl1531288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -1258,8 +1266,8 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Matt Desai</td>
-  <td class=3Dxl7931288>3</td>
+  <td class=3Dxl7631288>Ken Webster</td>
+  <td class=3Dxl7931288>1</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>2</td>
   <td class=3Dxl6831288>Matt Fitzpatrick</td>
@@ -1302,7 +1310,7 @@ n></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Charlie Adams</td>
-  <td class=3Dxl7931288>6</td>
+  <td class=3Dxl7931288>2</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>3</td>
   <td class=3Dxl6831288>Tony Finau</td>
@@ -1310,11 +1318,11 @@ n></td>
   <td class=3Dxl6831288>Cameron Young</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Viktor Hovland</td>
-  <td class=3Dxl6531288>-6</td>
+  <td class=3Dxl6531288>-8</td>
   <td class=3Dxl6831288>Tony Finau</td>
   <td class=3Dxl6531288>15</td>
   <td class=3Dxl6831288>Viktor Hovland</td>
-  <td class=3Dxl6531288>-6</td>
+  <td class=3Dxl6531288>-8</td>
   <td class=3Dxl6831288>Cameron Young</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Tony Finau</td>
@@ -1322,7 +1330,7 @@ n></td>
   <td class=3Dxl1531288>Justin Thomas</td>
   <td class=3Dxl6531288>12</td>
   <td class=3Dxl6831288>Viktor Hovland</td>
-  <td class=3Dxl6531288>-6</td>
+  <td class=3Dxl6531288>-8</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -1344,8 +1352,8 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Mike Coope</td>
-  <td class=3Dxl7931288>6</td>
+  <td class=3Dxl7631288>Bill Seeger</td>
+  <td class=3Dxl7931288>3</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>4</td>
   <td class=3Dxl6831288>Collin Morikawa</td>
@@ -1387,8 +1395,8 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Bill Seeger</td>
-  <td class=3Dxl7931288>7</td>
+  <td class=3Dxl7631288>Mike Coope</td>
+  <td class=3Dxl7931288>4</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>5</td>
   <td class=3Dxl1531288>Hideki Matsuyama</td>
@@ -1402,13 +1410,56 @@ n></td>
   <td class=3Dxl6831288>Sahith Theegala</td>
   <td class=3Dxl6531288>6</td>
   <td class=3Dxl6831288>Tommy Fleetwood</td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl6831288>Tommy Fleetwood</td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl1531288>Hideki Matsuyama</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Hideki Matsuyama</td>
   <td class=3Dxl6531288>5</td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl1531288></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
+  <td class=3Dxl7631288>Joe Magnetico</td>
+  <td class=3Dxl7931288>6</td>
+  <td class=3Dxl1531288></td>
+  <td class=3Dxl7331288>6</td>
+  <td class=3Dxl6831288>Joaquin Niemann</td>
+  <td class=3Dxl6531288>300</td>
+  <td class=3Dxl6831288>Corey Conners</td>
+  <td class=3Dxl6531288>-2</td>
+  <td class=3Dxl6831288>Joaquin Niemann</td>
+  <td class=3Dxl6531288>300</td>
+  <td class=3Dxl6831288>Joaquin Niemann</td>
+  <td class=3Dxl6531288>300</td>
+  <td class=3Dxl6831288>Russell Henley</td>
+  <td class=3Dxl6531288>300</td>
+  <td class=3Dxl6831288>Joaquin Niemann</td>
+  <td class=3Dxl6531288>300</td>
+  <td class=3Dxl6831288>Corey Conners</td>
+  <td class=3Dxl6531288>-2</td>
+  <td class=3Dxl1531288>Joaquin Niemann</td>
+  <td class=3Dxl6531288>300</td>
+  <td class=3Dxl6831288>Corey Conners</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -1431,50 +1482,7 @@ n></td>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
   <td class=3Dxl7631288>Chris Callahan</td>
-  <td class=3Dxl7931288>8</td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl7331288>6</td>
-  <td class=3Dxl6831288>Joaquin Niemann</td>
-  <td class=3Dxl6531288>300</td>
-  <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
-  <td class=3Dxl6831288>Joaquin Niemann</td>
-  <td class=3Dxl6531288>300</td>
-  <td class=3Dxl6831288>Joaquin Niemann</td>
-  <td class=3Dxl6531288>300</td>
-  <td class=3Dxl6831288>Russell Henley</td>
-  <td class=3Dxl6531288>300</td>
-  <td class=3Dxl6831288>Joaquin Niemann</td>
-  <td class=3Dxl6531288>300</td>
-  <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
-  <td class=3Dxl1531288>Joaquin Niemann</td>
-  <td class=3Dxl6531288>300</td>
-  <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288></td>
- </tr>
- <tr height=3D20 style=3D'height:15.0pt'>
-  <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Damon Chapman</td>
-  <td class=3Dxl7931288>9</td>
+  <td class=3Dxl7931288>6</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>7</td>
   <td class=3Dxl6831288>Jason Day</td>
@@ -1516,28 +1524,28 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Joe Magnetico</td>
-  <td class=3Dxl7931288>10</td>
+  <td class=3Dxl7631288>Damon Chapman</td>
+  <td class=3Dxl7931288>7</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>LIV</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Dustin Johnson</td>
   <td class=3Dxl6531288>9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -1559,8 +1567,8 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Lorraine McGill</td>
-  <td class=3Dxl7931288>12</td>
+  <td class=3Dxl7631288>Halley Ganges</td>
+  <td class=3Dxl7931288>8</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>WC1</td>
   <td class=3Dxl6831288>Talor Gooch</td>
@@ -1577,7 +1585,7 @@ n></td>
   <td class=3Dxl6831288>J.T. Poston</td>
   <td class=3Dxl6531288>6</td>
   <td class=3Dxl1531288>Ryan Fox</td>
-  <td class=3Dxl6531288>2</td>
+  <td class=3Dxl6531288>3</td>
   <td class=3Dxl1531288>Adam Scott</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Rickie Fowler</td>
@@ -1603,8 +1611,8 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl7631288>Halley Ganges</td>
-  <td class=3Dxl7931288>12</td>
+  <td class=3Dxl7631288>Lorraine McGill</td>
+  <td class=3Dxl7931288>11</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>WC2</td>
   <td class=3Dxl6831288>Adam Scott</td>
@@ -1647,7 +1655,7 @@ n></td>
  <tr height=3D17 style=3D'height:12.75pt'>
   <td height=3D17 class=3Dxl1531288 style=3D'height:12.75pt'></td>
   <td class=3Dxl7731288>Steve McFadden</td>
-  <td class=3Dxl8031288>19</td>
+  <td class=3Dxl8031288>17</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7431288>&nbsp;</td>
   <td class=3Dxl1531288></td>
@@ -1694,15 +1702,15 @@ n></td>
   <td class=3Dxl6631288></td>
   <td class=3Dxl7231288>&nbsp;</td>
   <td class=3Dxl7031288>Mark Brenman</td>
-  <td class=3Dxl7131288>-3</td>
+  <td class=3Dxl7131288>-7</td>
   <td class=3Dxl7031288>Sean Christian</td>
-  <td class=3Dxl7131288>-14</td>
+  <td class=3Dxl7131288>-17</td>
   <td class=3Dxl7031288>Ken Webster</td>
-  <td class=3Dxl7131288>-1</td>
+  <td class=3Dxl7131288>1</td>
   <td class=3Dxl7031288>Frank Prestifilippo</td>
-  <td class=3Dxl7131288>-9</td>
+  <td class=3Dxl7131288>-13</td>
   <td class=3Dxl7031288>Chris Marinis</td>
-  <td class=3Dxl7131288>2</td>
+  <td class=3Dxl7131288>-4</td>
   <td class=3Dxl7031288>&nbsp;</td>
   <td class=3Dxl7131288>#N/A</td>
   <td class=3Dxl7031288>&nbsp;</td>
@@ -1737,15 +1745,15 @@ n></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>1</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl1531288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288>Patrick Cantlay</td>
   <td class=3Dxl6531288>-1</td>
   <td class=3Dxl6831288>Jon Rahm</td>
   <td class=3Dxl6531288>7</td>
   <td class=3Dxl6831288>Scottie Scheffler</td>
-  <td class=3Dxl6531288>-4</td>
+  <td class=3Dxl6531288>-6</td>
   <td class=3Dxl6831288></td>
   <td class=3Dxl6531288>#N/A</td>
   <td class=3Dxl6831288></td>
@@ -1775,7 +1783,7 @@ n></td>
  </tr>
  <tr height=3D20 style=3D'height:15.0pt'>
   <td height=3D20 class=3Dxl1531288 style=3D'height:15.0pt'></td>
-  <td class=3Dxl8731288>05/21 13:56 PDT</td>
+  <td class=3Dxl8731288>05/21 15:48 PDT</td>
   <td class=3Dxl6531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>2</td>
@@ -1829,7 +1837,7 @@ n></td>
   <td class=3Dxl6831288>Cameron Young</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Viktor Hovland</td>
-  <td class=3Dxl6531288>-6</td>
+  <td class=3Dxl6531288>-8</td>
   <td class=3Dxl6831288>Justin Thomas</td>
   <td class=3Dxl6531288>12</td>
   <td class=3Dxl6831288></td>
@@ -1911,14 +1919,14 @@ n></td>
   <td class=3Dxl6831288>Hideki Matsuyama</td>
   <td class=3Dxl6531288>5</td>
   <td class=3Dxl6831288>Tommy Fleetwood</td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl6831288>Shane Lowry</td>
   <td class=3Dxl6531288>0</td>
   <td class=3Dxl6831288>Sahith Theegala</td>
   <td class=3Dxl6531288>6</td>
   <td class=3Dxl6831288>Tommy Fleetwoo<span style=3D'display:none'>d</span>=
 </td>
-  <td class=3Dxl6531288>4</td>
+  <td class=3Dxl6531288>2</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl6531288>#N/A</td>
   <td class=3Dxl6831288></td>
@@ -1955,9 +1963,9 @@ n></td>
   <td class=3Dxl6831288>Joaquin Niemann</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl6831288>Corey Conners</td>
-  <td class=3Dxl6531288>-3</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl6831288>Billy Horschel</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Joaquin Niemann</td>
@@ -2039,15 +2047,15 @@ n></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl7331288>LIV</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Phil Mickelson</td>
   <td class=3Dxl6531288>10</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288>Brooks Koepka</td>
-  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl6531288>-9</td>
   <td class=3Dxl6831288></td>
   <td class=3Dxl6531288>#N/A</td>
   <td class=3Dxl6831288></td>
@@ -2086,7 +2094,7 @@ n></td>
   <td class=3Dxl6831288>Gary Woodland</td>
   <td class=3Dxl6531288>300</td>
   <td class=3Dxl6831288>Ryan Fox</td>
-  <td class=3Dxl6531288>2</td>
+  <td class=3Dxl6531288>3</td>
   <td class=3Dxl6831288>Bryson DeChambea<span style=3D'display:none'>u</spa=
 n></td>
   <td class=3Dxl6531288>-3</td>
@@ -2780,29 +2788,29 @@ td>
   <td class=3Dxl6531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288 align=3Dright>10</td>
-  <td class=3Dxl6531288>-8</td>
-  <td class=3Dxl1531288 align=3Dright>12</td>
-  <td class=3Dxl6531288>2</td>
-  <td class=3Dxl1531288 align=3Dright>7</td>
-  <td class=3Dxl6531288>-11</td>
-  <td class=3Dxl1531288 align=3Dright>-4</td>
-  <td class=3Dxl6531288>6</td>
-  <td class=3Dxl1531288 align=3Dright>19</td>
-  <td class=3Dxl6531288>9</td>
-  <td class=3Dxl1531288 align=3Dright>-14</td>
-  <td class=3Dxl6531288>-21</td>
   <td class=3Dxl1531288 align=3Dright>6</td>
-  <td class=3Dxl6531288>-3</td>
-  <td class=3Dxl1531288 align=3Dright>12</td>
-  <td class=3Dxl6531288>8</td>
+  <td class=3Dxl6531288>-8</td>
+  <td class=3Dxl1531288 align=3Dright>11</td>
+  <td class=3Dxl6531288>-2</td>
   <td class=3Dxl1531288 align=3Dright>3</td>
-  <td class=3Dxl6531288>-21</td>
-  <td class=3Dxl1531288 align=3Dright>-3</td>
-  <td class=3Dxl1531288 align=3Dright>-14</td>
+  <td class=3Dxl6531288>-14</td>
+  <td class=3Dxl1531288 align=3Dright>-7</td>
+  <td class=3Dxl6531288>2</td>
+  <td class=3Dxl1531288 align=3Dright>17</td>
+  <td class=3Dxl6531288>7</td>
+  <td class=3Dxl1531288 align=3Dright>-15</td>
+  <td class=3Dxl6531288>-27</td>
+  <td class=3Dxl1531288 align=3Dright>4</td>
+  <td class=3Dxl6531288>-7</td>
+  <td class=3Dxl1531288 align=3Dright>8</td>
+  <td class=3Dxl6531288>6</td>
   <td class=3Dxl1531288 align=3Dright>-1</td>
-  <td class=3Dxl1531288 align=3Dright>-9</td>
-  <td class=3Dxl1531288 align=3Dright>2</td>
+  <td class=3Dxl6531288>-26</td>
+  <td class=3Dxl1531288 align=3Dright>-7</td>
+  <td class=3Dxl1531288 align=3Dright>-17</td>
+  <td class=3Dxl1531288 align=3Dright>1</td>
+  <td class=3Dxl1531288 align=3Dright>-13</td>
+  <td class=3Dxl1531288 align=3Dright>-4</td>
   <td class=3Dxl1531288 align=3Dcenter>#N/A</td>
   <td class=3Dxl1531288 align=3Dcenter>#N/A</td>
   <td class=3Dxl1531288 align=3Dcenter>#N/A</td>
@@ -2824,7 +2832,7 @@ td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl6631288>Min from 8 Groups</td>
-  <td class=3Dxl8431288>-23</td>
+  <td class=3Dxl8431288>-28</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl6531288></td>
   <td class=3Dxl1531288></td>
@@ -2867,7 +2875,7 @@ td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288 align=3Dright>-4</td>
+  <td class=3Dxl1531288 align=3Dright>-6</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -2953,7 +2961,7 @@ td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl6531288></td>
   <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288 align=3Dright>-6</td>
+  <td class=3Dxl1531288 align=3Dright>-8</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -3082,7 +3090,7 @@ td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl6531288></td>
   <td class=3Dxl1531288></td>
-  <td class=3Dxl1531288 align=3Dright>-3</td>
+  <td class=3Dxl1531288 align=3Dright>-2</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -3168,7 +3176,7 @@ td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl6531288></td>
   <td class=3Dxl1531288></td>
-  <td class=3Dxl8631288 align=3Dright>-7</td>
+  <td class=3Dxl8631288 align=3Dright>-9</td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
   <td class=3Dxl1531288></td>
@@ -4163,6 +4171,13 @@ td>
 </body>
 
 </html>
+
+
+
+
+
+
+
 
 
 
