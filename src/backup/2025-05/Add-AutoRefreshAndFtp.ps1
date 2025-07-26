@@ -4,7 +4,6 @@ Param(
 )
 
 $wsh = New-Object -ComObject WScript.Shell
-$RunningFile = $PSScriptRoot + "\publishrunning.txt"
 
 function Keep-Awake()
 {
@@ -15,20 +14,14 @@ function Keep-Awake()
 function CheckForExit()
 {
 	$stopFtpFile = $PSScriptRoot + "\stopftp.txt"
-	
 
 	if (Test-Path $stopFtpFile -PathType Leaf)
 	{
 		Write-Host "`rEnding."
 		Remove-item $stopFtpFile -ErrorAction Ignore
-		Remove-Item $RunningFile -ErrorAction Ignore
 		exit 5
 	}
 }
-
-Set-Location -Path "C:\pga"
-Write-Host "Add-AutorefreshAndFtp Running.  LoopTime = $($LoopTime);  dir=$($(Get-Location).Path)"
-"Running" | Out-File $RunningFile
 
 do {
 
@@ -47,17 +40,13 @@ do {
 		$x = (gc .\html\tempJ.html) -as [Collections.ArrayList]
 		$y = (gc .\html\tempM.html) -as [Collections.ArrayList]
 
-		if (Test-Path '.\html\LeadChanges.htm')
-		{
-			Copy-Item -Path ".\html\LeadChanges.htm" -Destination ".\html\LeadChanges.html"    # just for consistency 
-		}
 
         Start-Sleep 1
 		Remove-Item '.\html\JoeMagnetico.htm'
 		Remove-Item '.\html\Micro.htm'
 		Remove-Item '.\html\tempJ.html'
 		Remove-Item '.\html\tempM.html'
-		
+
 		$x.Insert(7,'<meta http-equiv="refresh" content="60" />')
 		$x.Insert(7,'<meta http-equiv="Pragma" content="no-cache" />')
 		$x.Insert(7,'<meta http-equiv="Expires" content="0" />')
@@ -75,13 +64,9 @@ do {
 		$y | Set-Content '.\html\micro.html' -Force -Encoding UTF8
 
 		Write-Verbose "call winscp to upload..."
-		if (Test-Path '.\html\LeadChanges.htm')
-		{
-			Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsLeaders.txt"
-			Remove-Item '.\html\LeadChanges.htm'
-		} else {
-			Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsBoth.txt"
-		}
+		# Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettings.txt"
+		# Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsMicro.txt"
+		Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsBoth.txt"
 
 		Write-Host "`r$((Get-Date -Format "HH-mm-ss.MM-dd").ToString()) - ftp upload complete."
 	}
@@ -89,5 +74,3 @@ do {
 	Start-Sleep $LoopTime
 
 } while ($LoopTime)
-
-Remove-Item $RunningFile -ErrorAction Ignore

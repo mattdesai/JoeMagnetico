@@ -1,0 +1,45 @@
+Param(
+    [Int] $LoopTime = 0
+)
+
+do {
+	
+	Write-Host -NoNewline "."
+	
+	if (Test-Path '.\html\JoeMagneticoPGATour.htm')
+	{
+		$x = (gc .\html\JoeMagneticoPGATour.htm) -as [Collections.ArrayList]
+		$x.Insert(7,'<meta http-equiv="refresh" content="60" />')
+		$x.Insert(7,'<meta http-equiv="Pragma" content="no-cache" />')
+		$x.Insert(7,'<meta http-equiv="Expires" content="0" />')
+		$x.Insert(7,'<meta http-equiv="Cache-control" content="no-cache, must-revalidate" />')
+
+		$x | Set-Content '.\html\index.html' -Force -Encoding UTF8
+
+		Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettings.txt"
+
+		Remove-Item '.\html\JoeMagneticoPGATour.htm'
+
+		Write-Host "$((Get-Date -Format "HH-mm-ss.MM-dd").ToString()) - ftp upload complete."
+	}
+
+	if (Test-Path '.\html\Micro.htm')
+	{
+		$x = (gc .\html\Micro.htm) -as [Collections.ArrayList]
+		$x.Insert(7,'<meta http-equiv="refresh" content="60" />')
+		$x.Insert(7,'<meta http-equiv="Pragma" content="no-cache" />')
+		$x.Insert(7,'<meta http-equiv="Expires" content="0" />')
+		$x.Insert(7,'<meta http-equiv="Cache-control" content="no-cache, must-revalidate" />')
+
+		$x | Set-Content '.\html\micro.html' -Force -Encoding UTF8
+
+		Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsMicro.txt"
+
+		Remove-Item '.\html\Micro.htm'
+
+		Write-Host "$((Get-Date -Format "HH-mm-ss.MM-dd").ToString()) - ftp upload complete."
+	}
+
+	Start-Sleep $LoopTime
+
+} while ($LoopTime)

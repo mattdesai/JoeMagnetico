@@ -1,0 +1,6 @@
+open ftp://if0_34643740:oxZAyRupoV@ftpupload.net/
+cd htdocs
+put .\html\index.html
+put .\html\Micro.html
+put .\html\LeadChanges.html
+exit
