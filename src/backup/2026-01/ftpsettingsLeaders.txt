@@ -1,7 +1,0 @@
-open ftp://if0_34643740:233G00ber45@ftpupload.net/
-cd htdocs
-put .\html\index.html
-put .\html\Micro.html
-put .\html\LeadChanges.html
-put .\html\LeadChangesMicro.html
-exit
