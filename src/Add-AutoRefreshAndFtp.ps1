@@ -49,7 +49,8 @@ do {
 
 		if (Test-Path '.\html\LeadChanges.htm')
 		{
-			Copy-Item -Path ".\html\LeadChanges.htm" -Destination ".\html\LeadChanges.html"    # just for consistency 
+			Copy-Item -Path ".\html\LeadChanges.htm"      -Destination ".\html\LeadChanges.html"        # just for consistency 
+			Copy-Item -Path ".\html\LeadChangesMicro.htm" -Destination ".\html\LeadChangesMicro.html"   # just for consistency 
 		}
 
         Start-Sleep 1
@@ -64,7 +65,7 @@ do {
 		$x.Insert(7,'<meta http-equiv="Cache-control" content="no-cache, must-revalidate" />')
 		$x.Insert(7,"<style> {margin:0;padding:0;} html { background: url('bg.jpg') no-repeat center center fixed; background-color: rgba(255,255,255,0.81); background-blend-mode: lighten; background-size: cover;} </style>")
 
-		$x | Set-Content '.\html\index.html' -Force -Encoding UTF8
+		$x | Set-Content '.\html\index.html' -Force # -Encoding UTF8
 
 		$y.Insert(7,'<meta http-equiv="refresh" content="60" />')
 		$y.Insert(7,'<meta http-equiv="Pragma" content="no-cache" />')
@@ -72,13 +73,14 @@ do {
 		$y.Insert(7,'<meta http-equiv="Cache-control" content="no-cache, must-revalidate" />')
 		$y.Insert(7,"<style> {margin:0;padding:0;} html { background: url('bg.jpg') no-repeat center center fixed; background-color: rgba(255,255,255,0.81); background-blend-mode: lighten; background-size: cover;} </style>")
 
-		$y | Set-Content '.\html\micro.html' -Force -Encoding UTF8
+		$y | Set-Content '.\html\micro.html' -Force # -Encoding UTF8
 
 		Write-Verbose "call winscp to upload..."
 		if (Test-Path '.\html\LeadChanges.htm')
 		{
 			Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsLeaders.txt"
 			Remove-Item '.\html\LeadChanges.htm'
+			Remove-Item '.\html\LeadChangesMicro.htm'
 		} else {
 			Start-Process -wait "\Program Files (x86)\WinSCP\WinSCP.exe" "/script=ftpSettingsBoth.txt"
 		}
