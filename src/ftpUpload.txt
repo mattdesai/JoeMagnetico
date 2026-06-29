@@ -1,0 +1,12 @@
+option batch abort
+option confirm off
+
+open ftp://USER:PWD@ftpupload.net/
+
+cd /jm.golfpool.us/htdocs
+put -transfer=binary ".\html\jm.golfpool.us\htdocs\*.html"
+
+cd /micro.golfpool.us/htdocs
+put -transfer=binary ".\html\micro.golfpool.us\htdocs\*.html"
+
+exit

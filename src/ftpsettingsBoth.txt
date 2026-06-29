@@ -1,5 +1,0 @@
-open ftp://xxx:yyy@ftpupload.net/
-cd htdocs
-put .\html\index.html
-put .\html\Micro.html
-exit
