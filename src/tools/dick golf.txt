@@ -6,42 +6,46 @@ Form
 RICH	: Add some text to entry form.  How to update picks.  Note that all old submissions are 100% ignored.
 RICH	: Deadline - maybe move up a tad to 10p?? wed night??
 
-P2 - We can tell when a submission is a replacement and include that note in the email.  ***
-P6 - wont help?  : Replace cc line with JM Golf Pool Admins/Micro Golf Pool Admins
+*** P2.5 - NO SOLN: putting in top 40 to web form is a pain
+*** P2.5 - NO SOLN: putting in wildcards to web form is a pain.  adding wildcards later is a pain
 
-DONE	: split WC into 2 diff dropdowns
-DONE	: on new submission, push notification, in case i need to make sure the laptop script is running
-NO: 	auto-mail reminders
+P4  - We can tell when a submission is a replacement and include that note in the email.  ***
+P20 - wont help?  : Replace cc line with JM Golf Pool Admins/Micro Golf Pool Admins
+P15: 	auto-mail reminders
 
 
 populate scoresheet  (one time)
 -------------------
-P2 - Dump from xlsx to composite -- too manual; **add  macro**?   --> this is where creating a db from form xls would be helpful
-P2 - Copynames dump from composite to scoresheet:  main problem is non-English (Aberg, hojgaard, niemann); they are wrong in owgr
-	could add error handling to the macro?  verify 1st that the name from composite exists in field/scores/top40
-	could 1st run a script/check that all of the owgr top40 are in the eField
+** P2.4 - Copynames dump from composite to scoresheet:  main problem is validation - non-English (Aberg, hojgaard, niemann); they are wrong in owgr
+	added "on error goto" to the macro.
+** 	could 1st run a script/check that all of the owgr top40 are in the eField
+	could verify 1st that names from composite exist in field/scores/top40
 
 Scoring
 -------
-* P3 change from html parsing to to api.espn
-* P6 for me: for the loop: auto-end when all golfers are "F"  (#holes done ==18)
-* P6 AAA  allow sleep & wake on timer/trigger at 6am
-	wakeup task does not work - still goes back to sleep;   getscoresloop/add-refreshftp --> sets standby=off?
+* P4 change from html parsing to to api.espn
+	* P6 for me: for the loop: auto-end when all golfers are "F"  (#holes done ==18)
 * P4 Modularize getscoresloop?
 * P4, large effort - use a real db, (even if excel) - then presentation changes are easy - sorting, graphs, tables, ... trends, path to victory
-* Stop-files (at least) are hardcoded to c:\pga
-
-Robustness, logging
-* P6 need any more status/psstatus details?
+* P5, Stop-files (at least) are hardcoded to c:\pga
+* P6, Allow sleep & wake on timer/trigger at 7am
 
 Web site
+--------
 DONE	:  iframe vs navbar?  vs using top row 1 of excel as buttons/navbar, and navbar for non-excel pages, like bio's
 DONE	:  added time on standings page, didnt work as iframe, but will work with new "excel navbar"
 DONE	:  Main part of 'Modularize add-and-ftp.ps1'
 
-* P3 MENU' for other pages
-	3 Sunday afternoon have a page for only the top ~12
-	2 pivot tables & graphs
-	2 "my path to victory"  (my golfers:  (27 or 30)-# of others who picked.  not my golfers:  0-# that have him)
-	2 trends (on daily scores page?)
-	4 bio's
+P3 'MENU' with other pages
+	P4 Sunday afternoon have a page for only the top ~12
+	P3.1 pivot tables & graphs
+	P3.2 "my path to victory"  (my golfers:  (27 or 30)-# of others who picked.  not my golfers:  0-# that have him)
+	P3.3 trends/lead changes/historical places (on daily scores page?)
+	P6 money lists
+	P5 bio's
+
+P5 - code? to add just background without refresh? for moneylist, bios, ... can just do manually
+
+
+Robustness, logging
+* P8 need any more status/psstatus details?

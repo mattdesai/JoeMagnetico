@@ -84,7 +84,8 @@ Write-Host "1=No Update in >30 mins; 2=Updates Ready; 4=Status ready"
 $lastUploadTime = Get-Date
 
 try {
-do {
+
+    do {
 
 	try {
 		if (Check-ForExit) { break }
@@ -115,7 +116,8 @@ do {
 			Remove-Item '.\html\JoeMagnetico.htm', '.\html\Micro.htm' -Force -ErrorAction Ignore
 
 			$hasStandings = $false
-			if (Test-Path '.\html\JMStandings.htm') {
+			if (Test-Path '.\html\JMStandings.htm')
+			{
 				$hasStandings = $true
 				(Get-Content .\html\JMStandings.htm -Raw).Replace(";color:white;",";color:transparent;") | Set-Content .\html\tempJS.html
 				(Get-Content .\html\MicroStandings.htm -Raw).Replace(";color:white;",";color:transparent;") | Set-Content .\html\tempMS.html
@@ -129,16 +131,14 @@ do {
 			$y = Insert-Html -origFile '.\html\tempM.html'
 
 			$x | Set-Content '.\html\jm.golfpool.us\htdocs\index.html' -Force # -Encoding UTF8
-			copy .\html\jm.golfpool.us\htdocs\index.html .\html\htdocs\index.html
-
 			$y | Set-Content '.\html\micro.golfpool.us\htdocs\index.html' -Force # -Encoding UTF8
-			copy .\html\micro.golfpool.us\htdocs\index.html .\html\htdocs\micro.html
 
-			if ($hasStandings) {
+			if ($hasStandings)
+			{
 				$a = Insert-Html -origFile '.\html\tempJS.html'
-				$a | Set-Content '.\html\jm.golfpool.us\htdocs\Standings.html' -Force # -Encoding UTF8
-
 				$b = Insert-Html -origFile '.\html\tempMS.html'
+
+				$a | Set-Content '.\html\jm.golfpool.us\htdocs\Standings.html' -Force # -Encoding UTF8
 				$b | Set-Content '.\html\micro.golfpool.us\htdocs\Standings.html' -Force # -Encoding UTF8
 			}
 		}
@@ -174,7 +174,7 @@ do {
 
 	Start-Sleep $LoopTime
 
-} while ($LoopTime)
+    } while ($LoopTime)
 
 }
 finally
